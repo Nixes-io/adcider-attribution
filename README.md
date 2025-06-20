@@ -32,7 +32,7 @@ struct MyApp: App {
 }
 ```
 
-### iOS App (AppDelegate)
+### UIKit (AppDelegate)
 
 ```swift
 import UIKit
